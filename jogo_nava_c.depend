@@ -1,0 +1,31 @@
+# depslib dependency file v1.0
+1491450369 source:c:\users\pc\desktop\projetoc\jogo_nava_c\main.c
+	<stdio.h>
+	<stdlib.h>
+	<SDL.h>
+	<SDL_ttf.h>
+	<SDL_image.h>
+
+1491450370 source:d:\jogo_nava_c\main.c
+	<stdio.h>
+	<stdlib.h>
+	<SDL.h>
+	<SDL_ttf.h>
+	<SDL_image.h>
+
+1526135662 source:e:\jogo_nava_c\main.c
+	<stdio.h>
+	<stdlib.h>
+	<SDL.h>
+	<SDL_ttf.h>
+	<SDL_image.h>
+	"tiro.h"
+
+1492461867 e:\jogo_nava_c\tiro.h
+
+1492466602 source:e:\jogo_nava_c\tiroarray.c
+	<stdlib.h>
+	<stdio.h>
+	<string.h>
+	"tiro.h"
+
